@@ -8,4 +8,4 @@ jpeg("rplot.jpg", width = 350, height = 350) # creates a jpeg called with the di
 plot(sqrt(t) * cos(p*t), sqrt(t) * sin(p*t), type = "p", axes = FALSE, ann=FALSE) # makes a fancy circles pattern
 dev.off() # turn off graphing device
 
-# hello???
+# testing testings
