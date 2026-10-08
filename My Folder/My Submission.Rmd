@@ -4,9 +4,6 @@ author:
 output: 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Why Version Control is Useful
 1. Can keep a record of changes
