@@ -21,7 +21,9 @@ Output:
 12. In your R markdown file add a code snippt box that solves 1 + 1
 13. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
 14. Embed the course logo in the root Readme using Markdown 
-15. Link your R Markdown report using Markdown 
+15. Link your R Markdown report using Markdown
+
+![](https://github.com/EdDataScienceEES/DataScienceHub2026/raw/main/repo_files/DataSciEES_logo.jpg)
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
