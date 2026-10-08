@@ -1,0 +1,19 @@
+---
+title: "My Submission"
+author:
+output: 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why Version Control is Useful
+1. Can keep a record of changes
+2. Transparency
+3. Can allow multiple people to work on the same project
+
+
+```{r}
+1+1
+```
