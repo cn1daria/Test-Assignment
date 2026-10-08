@@ -25,7 +25,7 @@ Output:
 
 <p align="center">
   <img src="repo_files/DataSciEES_logo.jpg" width="200" height="200" />
-</p>\
+</p>
 [My Submission.Rmd](https://github.com/cn1daria/Test-Assignment/blob/main/My%20Folder/My%20Submission.Rmd)
 
 🚀 Stretch Goals: Terminal Challenge
