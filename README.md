@@ -23,7 +23,8 @@ Output:
 14. Embed the course logo in the root Readme using Markdown 
 15. Link your R Markdown report using Markdown
 
-![](https://github.com/EdDataScienceEES/DataScienceHub2026/raw/main/repo_files/DataSciEES_logo.jpg height="200")
+![](https://github.com/EdDataScienceEES/DataScienceHub2026/raw/main/repo_files/DataSciEES_logo.jpg)
+[My Submission.Rmd](https://github.com/cn1daria/Test-Assignment/blob/main/My%20Folder/My%20Submission.Rmd)
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
